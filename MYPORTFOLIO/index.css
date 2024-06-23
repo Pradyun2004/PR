@@ -1,0 +1,91 @@
+header{
+    background-color: aqua;
+    height: 450px;
+    margin-top: 0px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+
+ 
+
+ 
+   
+
+}
+a{
+    text-decoration: none;
+}
+section{
+    border: 1px solid;
+    border-radius: 20px;
+    margin-bottom: 5px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+.sec{
+    margin-top: 5px;
+    padding-top: 5px;;
+    padding-bottom: 5px;
+
+}
+button{
+    cursor: pointer;
+    margin: 15px;
+
+   
+}
+button:hover{
+  background-color:blue;
+}
+img{
+    height: 250px;
+}
+footer{
+    background-color:black;
+    color: lightblue;
+    height: 150px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+h1{
+    color:steelblue;
+    font-size: 40px;
+    text-align: center;
+}
+
+body{
+    font-family: monospace;
+}
+.top{
+    position: fixed;
+    border-radius: 100%;
+    cursor: pointer;
+    background-color: aqua;
+    color: white;
+    bottom: 20px;
+    right: 10px;
+    width: 70px;
+}
+.space{
+    padding-bottom: 10px;
+}
+.nani{
+    background-color: blue;
+    color: white;
+}
+form div{
+    margin: 7px;
+}
+.wel{
+    color: white;
+}
+.project{
+    padding-bottom: 13px;
+}
